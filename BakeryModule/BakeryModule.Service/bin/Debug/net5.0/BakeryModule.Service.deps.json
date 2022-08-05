@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BakeryModule.Service/1.0.0": {
+        "dependencies": {
+          "BakeryModue.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BakeryModule.Service.dll": {}
+        }
+      },
+      "BakeryModue.Domain/1.0.0": {
+        "runtime": {
+          "BakeryModue.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BakeryModule.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BakeryModue.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

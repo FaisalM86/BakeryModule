@@ -1,0 +1,15 @@
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\bin\Debug\net5.0\BakeryModule.Service.deps.json
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\bin\Debug\net5.0\BakeryModule.Service.dll
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\bin\Debug\net5.0\ref\BakeryModule.Service.dll
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\bin\Debug\net5.0\BakeryModule.Service.pdb
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\bin\Debug\net5.0\BakeryModue.Domain.dll
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\bin\Debug\net5.0\BakeryModue.Domain.pdb
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\obj\Debug\net5.0\BakeryModule.Service.csproj.AssemblyReference.cache
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\obj\Debug\net5.0\BakeryModule.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\obj\Debug\net5.0\BakeryModule.Service.AssemblyInfoInputs.cache
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\obj\Debug\net5.0\BakeryModule.Service.AssemblyInfo.cs
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\obj\Debug\net5.0\BakeryModule.Service.csproj.CoreCompileInputs.cache
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\obj\Debug\net5.0\BakeryModule.Service.csproj.CopyComplete
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\obj\Debug\net5.0\BakeryModule.Service.dll
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\obj\Debug\net5.0\ref\BakeryModule.Service.dll
+E:\CDMWorking\BakerySystem\BakeryModule\BakeryModule.Service\obj\Debug\net5.0\BakeryModule.Service.pdb
